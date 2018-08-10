@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 10 10:08:13 2018
 
-@author: jz9108
+@author: jz9108@att
 """
 # Import libraries necessary for this project
 import numpy as np
